@@ -1,3 +1,3 @@
 console.log('This is config file')
-console.log('version 2')
+console.log('version 3')
 console.log('update')
